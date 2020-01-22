@@ -1,0 +1,4 @@
+Servo5	KEYWORD1
+attach	KEYWORD2
+write	KEYWORD2
+servo_pin	LITERAL1
